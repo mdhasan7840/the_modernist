@@ -1,0 +1,223 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /*************code stat here***********/
+  .header-section .top-header .navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700px;
+    text-transform: uppercase;
+    margin-right: 85px;
+    transition: .6s;
+    text-align: center;
+}
+.carousel-caption{
+	top:150px;
+}
+.banner .carousel-inner .carousel-caption h2 {
+    margin-top: -155px;
+    padding: 9px;
+    background: rgba(255,0,255,.5);
+}
+/*about us*/
+.about-us .inner-about-us{
+	width:70%;
+	background:#fff;
+	margin:40px 0px 0px;
+	text-align:center;
+	transition:.5s;
+	margin:0px auto 0px;
+}
+.about-us .inner-about-us img{
+	margin:40px 0px 60px;
+	width:170px;
+	height:140px;
+	opacity:.5;
+}
+/*latest wrok*/
+
+/*footer section*/
+.footer .From-The-Blog{
+	margin-bottom:20px;
+}
+.footer .Quick-Links{
+	margin-bottom:20px;
+}
+{
+	margin-bottom:20px;
+}
+
+.footer .Quick-Links{
+	margin-bottom:20px;
+}
+
+   /*************code stat here***********/
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /**********code start****************/
+  .header-section .top-header .navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700px;
+    text-transform: uppercase;
+    margin-right: 85px;
+    transition: .6s;
+    text-align: center;
+}
+.carousel-caption{
+	top:150px;
+}
+.banner .carousel-inner .carousel-caption h2 {
+    margin-top: -85px;
+    padding: 9px;
+    background: rgba(255,0,255,.5);
+}
+/*about us*/
+.about-us .inner-about-us{
+	width:80%;
+	background:#fff;
+	margin:40px 0px 0px;
+	text-align:center;
+	transition:.5s;
+	margin:0px auto 0px;
+}
+.about-us .inner-about-us img{
+	margin:40px 0px 60px;
+	width:170px;
+	height:140px;
+	opacity:.5;
+}
+/*latest-work*/
+.latest-work  .inner-latest-work{
+	width:70%;
+	border:4px solid #fff;
+	margin:0px auto 20px;
+}
+.latest-work .inner-latest-work img {
+
+    width: 100%;
+    height: 250px;
+    
+}
+/*footer section*/
+.footer .From-The-Blog{
+	margin-bottom:40px;
+}
+.footer .Quick-Links{
+	margin-bottom:40px;
+}
+{
+	margin-bottom:40px;
+}
+
+.footer .Quick-Links{
+	margin-bottom:20px;
+}
+  /**********code start****************/
+  
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /****************code start here*********/
+  .header-section .top-header .navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700px;
+    text-transform: uppercase;
+    margin-right: 85px;
+    transition: .6s;
+    text-align: center;
+}
+.carousel-caption{
+	top:150px;
+}
+.banner .carousel-inner .carousel-caption h2 {
+    margin-top: 1px;
+    padding: 9px;
+    background: rgba(255,0,255,.5);
+}
+/*about us*/
+.about-us .inner-about-us{
+	width:85%;
+	background:#fff;
+	margin:40px 0px 0px;
+	text-align:center;
+	transition:.5s;
+	margin:30px auto 0px;
+}
+.about-us .inner-about-us img{
+	margin:40px 0px 60px;
+	width:170px;
+	height:140px;
+	opacity:.5;
+}
+/*latest-work*/
+.latest-work  .inner-latest-work{
+	width:70%;
+	border:4px solid #fff;
+	margin:0px auto 20px;
+}
+.latest-work .inner-latest-work img {
+
+    width: 100%;
+    height: 250px;
+    
+}
+/*footer section*/
+.footer .From-The-Blog{
+	margin-bottom:40px;
+}
+.footer .Quick-Links{
+	margin-bottom:40px;
+}
+{
+	margin-bottom:40px;
+}
+
+.footer .Quick-Links{
+	margin-bottom:20px;
+}
+.footer .Contact-Us h4{
+	text-align:center;
+}
+.footer .Contact-Us .form-group .form-control{
+	width:70%;
+	margin:0px auto 6px;
+}
+.footer .Contact-Us .form-group  .btn-info{
+margin-left:105px;
+margin-bottom:-30px;
+}
+.copyright .copyright-section p{
+	margin-left:90px;
+	margin-bottom:10px;
+}
+.copyright .socials{
+	margin:20px 0px 0px 90px;
+}
+
+
+
+  /***************code ends here***********/
+
+  
+} 
